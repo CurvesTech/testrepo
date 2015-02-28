@@ -1,0 +1,12 @@
+{
+    "name": "curvestech/composerlearning",
+    "description": "this is a temporary composer learning.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mubashir Abbas",
+            "email": "mubashir.abbas@outlook.com"
+        }
+    ],
+    "require": {}
+}
